@@ -1,9 +1,9 @@
 # 2048 Game
-
-This repository contains two versions of the classic **2048** game implemented in Python:
+This repository contains my very old code, featuring two classic games implemented in Python:
 
 - **`2048_gui.py`**: A graphical version using **Tkinter**.
 - **`2048.py`**: A terminal version.
+- **`tictac.py`**: tictactoe game using **Tkinter**.
 
 
 ## Screenshot
